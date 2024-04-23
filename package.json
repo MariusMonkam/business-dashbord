@@ -1,0 +1,24 @@
+{
+  "name": "business_dashboard",
+  "version": "1.0.0",
+  "description": "Customizable Business Dashboard template with Built-in Configurator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusMonkam/business-dashboard.git"
+  },
+  "keywords": [
+    "#dashboard",
+    "#chart",
+    "#business"
+  ],
+  "author": "Marius Monkam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MariusMonkam/business-dashboard/issues"
+  },
+  "homepage": "https://github.com/MariusMonkam/business-dashboard#readme"
+}
