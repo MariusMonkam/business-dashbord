@@ -53,4 +53,4 @@ Special thanks to [Individual/Project/Resource] for their contributions and insp
 
 ## Support
 
-For support, questions, or feedback, please contact Marius Monkam at mariusmonkam@yahoo.fr or visit our [GitHub repository](https://github.com/MariusMonkam/business-dashbord).
+For support, questions, or feedback, please contact Marius Monkam at mariusmonkam@yahoo.fr or visit our [GitHub repository](https://github.com/MariusMonkam/business-dashboard).
