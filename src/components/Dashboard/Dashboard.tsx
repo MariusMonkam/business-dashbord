@@ -1,5 +1,5 @@
 import React from "react";
-import ItemContainer from "../components/basic/ItemContainer";
+import { ItemContainer } from "../ItemContainer";
 
 export interface DashpoardProps {}
 
